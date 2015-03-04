@@ -1,0 +1,22 @@
+{
+  "name": "hello-npm-with-coffee",
+  "version": "0.0.2",
+  "description": "hello npm",
+  "main": "lib/say.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/c3h3/hello-npm-with-coffee.git"
+  },
+  "author": "Chia-Chi Chang <c3h3.tw@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/c3h3/hello-npm-with-coffee/issues"
+  },
+  "homepage": "https://github.com/c3h3/hello-npm-with-coffee",
+  "devDependencies":{
+    "coffee-script": ">=1.8.0"
+  }
+}
